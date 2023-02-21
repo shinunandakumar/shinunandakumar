@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on django | golang 
+- 🔭 I’m currently working on golang | k8s
 
-- 🌱 I’m currently learning k8s, reactjs
+- 🌱 I’m currently learning helm, otel
 
 - 💬 Ask me about django | golang | docker
 
