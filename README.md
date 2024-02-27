@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning helm, otel, openshift
 
-- 💬 Ask me about django | golang | docker
+- 💬 Ask me about django | golang | docker | k8s
 
 - 📫 How to reach me: shinunandakumar@gmail.com 
 
